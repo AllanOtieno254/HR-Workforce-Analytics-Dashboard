@@ -38,6 +38,10 @@ To utilize this project, you will need the following:
 - The raw dataset in Excel or CSV format (not included in this repository for privacy reasons).
 
 ---
+## GIT CONFIGURATIONS:
+![git config1](https://github.com/user-attachments/assets/b70714d7-cc78-4dc5-a979-787a751486f7)
+
+![git config2](https://github.com/user-attachments/assets/15928fa7-54a9-45c8-8297-ffaaa8d1ed09)
 
 ## How to Use
 ### 1. Clone the Repository
@@ -60,3 +64,4 @@ HR-Analytics-Dashboard/
 │   └── dashboard-preview.png
 ├── README.md               # Documentation for the repository
 └── LICENSE                 # License file
+
