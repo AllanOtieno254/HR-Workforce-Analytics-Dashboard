@@ -1,11 +1,14 @@
 # HR Insights Dashboard
 
+![one](https://github.com/user-attachments/assets/60f49b19-aeff-4d32-bde4-312aaa771ea2)
+
 ## Overview
 The **HR Insights Dashboard** is a powerful data visualization tool built using Power BI. It is designed to provide comprehensive analytics and actionable insights into various aspects of human resources management, including employee retention, retrenchment status, and workforce demographics. This project demonstrates advanced skills in business intelligence, data analysis, and visualization.
 
 By leveraging this dashboard, organizations can make data-driven decisions to enhance employee satisfaction, improve workforce planning, and optimize HR processes.
 
 ---
+![two](https://github.com/user-attachments/assets/72eb93ba-be45-4516-80d6-918cf2a89987)
 
 ## Features
 - **Employee Retention Analysis**: Gain insights into retention rates and identify trends affecting employee longevity.
