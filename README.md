@@ -14,6 +14,7 @@ The **HR Insights Dashboard** is a powerful data visualization tool built using 
 
 By leveraging this dashboard, organizations can make data-driven decisions to enhance employee satisfaction, improve workforce planning, and optimize HR processes.
 
+
 ---
 ![two](https://github.com/user-attachments/assets/72eb93ba-be45-4516-80d6-918cf2a89987)
 
